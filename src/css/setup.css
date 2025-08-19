@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: rgb(30, 30, 30);
+  background: rgb(253, 240, 217);
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  user-select: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img {
+  display: block;
+}
+
+a {
+  text-decoration: none;
+  color: unset;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  background: none;
+  border: none;
+  padding: unset;
+  height: unset;
+}

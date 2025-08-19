@@ -1,0 +1,42 @@
+[
+  {
+    "corner": "bottom-left",
+    "direction": "counterclockwise",
+    "url": "pictos/read-ord-ccw-bl.png"
+  },
+  {
+    "corner": "bottom-right",
+    "direction": "counterclockwise",
+    "url": "pictos/read-ord-ccw-br.png"
+  },
+  {
+    "corner": "top-left",
+    "direction": "counterclockwise",
+    "url": "pictos/read-ord-ccw-tl.png"
+  },
+  {
+    "corner": "top-right",
+    "direction": "counterclockwise",
+    "url": "pictos/read-ord-ccw-tr.png"
+  },
+  {
+    "corner": "bottom-left",
+    "direction": "clockwise",
+    "url": "pictos/read-ord-cw-bl.png"
+  },
+  {
+    "corner": "bottom-right",
+    "direction": "clockwise",
+    "url": "pictos/read-ord-cw-br.png"
+  },
+  {
+    "corner": "top-left",
+    "direction": "clockwise",
+    "url": "pictos/read-ord-cw-tl.png"
+  },
+  {
+    "corner": "top-right",
+    "direction": "clockwise",
+    "url": "pictos/read-ord-cw-tr.png"
+  }
+]

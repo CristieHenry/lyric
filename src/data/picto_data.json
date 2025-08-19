@@ -1,0 +1,3638 @@
+[
+  {
+    "id": 1,
+    "name": "heart",
+    "image": "/pictos/heart.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "heart",
+            "secondary": ["hearts"]
+          },
+          {
+            "primary": "warm",
+            "secondary": ["warmth", "warms", "warmed", "warming"]
+          },
+          {
+            "primary": "cherished",
+            "secondary": ["cherish", "cherishes", "cherished", "cherishing"]
+          },
+          {
+            "primary": "lovingly",
+            "secondary": ["love", "loves", "loved", "loving"]
+          },
+          {
+            "primary": "adore",
+            "secondary": [
+              "adores",
+              "adored",
+              "adoring",
+              "adoringly",
+              "adoration"
+            ]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "apathy",
+            "secondary": ["apathetic", "apathetically"]
+          },
+          {
+            "primary": "imperviousness",
+            "secondary": ["impervious", "imperviously"]
+          },
+          {
+            "primary": "aloof",
+            "secondary": ["aloofly"]
+          },
+          {
+            "primary": "heartless",
+            "secondary": ["heartlessness", "heartlessly"]
+          },
+          {
+            "primary": "coolly",
+            "secondary": []
+          },
+          {
+            "primary": "disregard",
+            "secondary": ["disregards", "disregarded", "disregarding"]
+          },
+          {
+            "primary": "ignore",
+            "secondary": ["ignores", "ignored", "ignoring"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "heartbreak",
+            "secondary": ["heartbroken"]
+          },
+          {
+            "primary": "grief",
+            "secondary": ["grieve", "grieves", "grieved", "grieving"]
+          },
+          {
+            "primary": "sorrow",
+            "secondary": ["sorrows"]
+          },
+          {
+            "primary": "melancholy",
+            "secondary": ["melancholic"]
+          },
+          {
+            "primary": "nostalgic",
+            "secondary": ["nostalgia"]
+          },
+          {
+            "primary": "wistfully",
+            "secondary": ["wistful"]
+          },
+          {
+            "primary": "miss",
+            "secondary": ["misses", "missed", "missing"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "longing",
+            "secondary": ["longings", "long", "longs", "longed"]
+          },
+          {
+            "primary": "passionate",
+            "secondary": ["passion", "passions", "passionately"]
+          },
+          {
+            "primary": "ardently",
+            "secondary": ["ardent"]
+          },
+          {
+            "primary": "desire",
+            "secondary": ["desires", "desired", "desiring"]
+          },
+          {
+            "primary": "want",
+            "secondary": ["wants", "wanted", "wanting"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "magnifier",
+    "image": "/pictos/magnifier.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "lens",
+            "secondary": ["lenses"]
+          },
+          {
+            "primary": "clue",
+            "secondary": ["clues"]
+          },
+          {
+            "primary": "true",
+            "secondary": ["truth", "truths", "truly"]
+          },
+          {
+            "primary": "precisely",
+            "secondary": ["precise"]
+          },
+          {
+            "primary": "discover",
+            "secondary": ["discovery", "discovers", "discovered", "discovering"]
+          },
+          {
+            "primary": "learn",
+            "secondary": ["learns", "learned", "learning"]
+          },
+          {
+            "primary": "find",
+            "secondary": ["finds", "found", "finding"]
+          },
+          {
+            "primary": "know",
+            "secondary": ["knowledge", "knows", "knowing", "knowingly", "known"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "ignorance",
+            "secondary": ["ignorant"]
+          },
+          {
+            "primary": "unwitting",
+            "secondary": ["unwittingly"]
+          },
+          {
+            "primary": "innocent",
+            "secondary": ["innocence", "innocently"]
+          },
+          {
+            "primary": "unknowingly",
+            "secondary": ["unknowing"]
+          },
+          {
+            "primary": "forget",
+            "secondary": ["forgets", "forgot", "forgetting"]
+          },
+          {
+            "primary": "mistake",
+            "secondary": [
+              "mistakes",
+              "mistook",
+              "mistaking",
+              "mistaken",
+              "mistakenly"
+            ]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "hunt",
+            "secondary": ["hunts", "hunted", "hunting"]
+          },
+          {
+            "primary": "curious",
+            "secondary": ["curiosity", "curiosites", "curiously"]
+          },
+          {
+            "primary": "probingly",
+            "secondary": ["probe", "probes", "probed", "probing"]
+          },
+          {
+            "primary": "investigate",
+            "secondary": [
+              "investigation",
+              "investigations",
+              "investigates",
+              "investigated",
+              "investigating"
+            ]
+          },
+          {
+            "primary": "explore",
+            "secondary": [
+              "exploration",
+              "explorations",
+              "explores",
+              "explored",
+              "exploring"
+            ]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "idea",
+            "secondary": ["ideas"]
+          },
+          {
+            "primary": "theory",
+            "secondary": [
+              "theories",
+              "theorize",
+              "theorizes",
+              "theorized",
+              "theorizing",
+              "theoretical",
+              "theoretically"
+            ]
+          },
+          {
+            "primary": "conjecture",
+            "secondary": ["conjectures"]
+          },
+          {
+            "primary": "speculative",
+            "secondary": [
+              "speculate",
+              "speculates",
+              "speculated",
+              "speculating",
+              "speculatively"
+            ]
+          },
+          {
+            "primary": "hypothetically",
+            "secondary": ["hypothetical", "hypotheticals"]
+          },
+          {
+            "primary": "estimate",
+            "secondary": ["estimates", "estimated", "estimating"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "crack",
+    "image": "/pictos/crack.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "rift",
+            "secondary": ["rifts"]
+          },
+          {
+            "primary": "crack",
+            "secondary": ["cracks", "cracked", "cracking"]
+          },
+          {
+            "primary": "torn",
+            "secondary": ["tear", "tears", "tearing"]
+          },
+          {
+            "primary": "destructively",
+            "secondary": ["destruction", "destructive"]
+          },
+          {
+            "primary": "destroy",
+            "secondary": ["destroys", "destroyed", "destroying"]
+          },
+          {
+            "primary": "break",
+            "secondary": ["breaks", "broke", "breaking", "broken"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "remedy",
+            "secondary": ["remedies", "remedied"]
+          },
+          {
+            "primary": "seam",
+            "secondary": ["seams"]
+          },
+          {
+            "primary": "healing",
+            "secondary": ["heal", "heals", "healed"]
+          },
+          {
+            "primary": "restoratively",
+            "secondary": [
+              "restoration",
+              "restorations",
+              "restore",
+              "restores",
+              "restored",
+              "restoring",
+              "restorative"
+            ]
+          },
+          {
+            "primary": "fix",
+            "secondary": ["fixes", "fixed", "fixing"]
+          },
+          {
+            "primary": "mend",
+            "secondary": ["mends", "mended", "mending"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "aftershock",
+            "secondary": ["aftershocks"]
+          },
+          {
+            "primary": "repercussion",
+            "secondary": ["repercussions"]
+          },
+          {
+            "primary": "ensuing",
+            "secondary": ["ensue", "ensues", "ensued"]
+          },
+          {
+            "primary": "consequently",
+            "secondary": ["consequence", "consequences"]
+          },
+          {
+            "primary": "resoundingly",
+            "secondary": ["resounding"]
+          },
+          {
+            "primary": "echo",
+            "secondary": ["echoes", "echoed", "echoing", "echoingly"]
+          },
+          {
+            "primary": "reverberate",
+            "secondary": [
+              "reverberation",
+              "reverberations",
+              "reverberates",
+              "reverberated",
+              "reverberating"
+            ]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "scar",
+            "secondary": ["scars", "scarred", "scarring"]
+          },
+          {
+            "primary": "traumatic",
+            "secondary": [
+              "traumatize",
+              "traumatizes",
+              "traumatized",
+              "traumatizing",
+              "trauma",
+              "traumas"
+            ]
+          },
+          {
+            "primary": "woundingly",
+            "secondary": ["wound", "wounds", "wounded", "wounding"]
+          },
+          {
+            "primary": "disfigure",
+            "secondary": [
+              "disfigurement",
+              "disfigurements",
+              "disfigures",
+              "disfigured",
+              "disfiguring"
+            ]
+          },
+          {
+            "primary": "mar",
+            "secondary": ["mars", "marred", "marring"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "box",
+    "image": "/pictos/box.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "what",
+            "secondary": []
+          },
+          {
+            "primary": "everything",
+            "secondary": ["thing", "things"]
+          },
+          {
+            "primary": "box",
+            "secondary": ["boxes"]
+          },
+          {
+            "primary": "made",
+            "secondary": ["make", "makes", "making"]
+          },
+          {
+            "primary": "wrought",
+            "secondary": []
+          },
+          {
+            "primary": "manifestly",
+            "secondary": []
+          },
+          {
+            "primary": "create",
+            "secondary": ["creates", "created", "creating"]
+          },
+          {
+            "primary": "forge",
+            "secondary": ["forges", "forged", "forging"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "nothing",
+            "secondary": []
+          },
+          {
+            "primary": "void",
+            "secondary": []
+          },
+          {
+            "primary": "bare",
+            "secondary": ["bares", "bared", "baring"]
+          },
+          {
+            "primary": "empty",
+            "secondary": ["emptiness", "empties", "emptied", "emptying"]
+          },
+          {
+            "primary": "blankly",
+            "secondary": ["blank", "blanks"]
+          },
+          {
+            "primary": "remove",
+            "secondary": ["removes", "removed", "removing"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "anything",
+            "secondary": []
+          },
+          {
+            "primary": "options",
+            "secondary": ["option"]
+          },
+          {
+            "primary": "sundry",
+            "secondary": ["sundries"]
+          },
+          {
+            "primary": "myriad",
+            "secondary": []
+          },
+          {
+            "primary": "choose",
+            "secondary": ["choice", "choices", "chooses", "chose", "choosing"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "something",
+            "secondary": []
+          },
+          {
+            "primary": "variable",
+            "secondary": ["variables"]
+          },
+          {
+            "primary": "indefinite",
+            "secondary": ["indefinitely"]
+          },
+          {
+            "primary": "unstated",
+            "secondary": []
+          },
+          {
+            "primary": "indeterminately",
+            "secondary": ["indeterminate"]
+          },
+          {
+            "primary": "guess",
+            "secondary": ["guesses", "guessed", "guessing"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "pillow",
+    "image": "/pictos/pillow.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "cushion",
+            "secondary": ["cushions", "cushioned", "cushioning"]
+          },
+          {
+            "primary": "comforting",
+            "secondary": ["comfort", "comforts", "comforted", "comforting"]
+          },
+          {
+            "primary": "soothingly",
+            "secondary": ["soothe", "soothes", "soothed", "soothing"]
+          },
+          {
+            "primary": "sit",
+            "secondary": ["sits", "sat", "siting"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "blanket",
+            "secondary": ["blankets", "blanketed", "blanketing"]
+          },
+          {
+            "primary": "muffled",
+            "secondary": ["muffle", "muffles", "muffled", "muffling"]
+          },
+          {
+            "primary": "muzzily",
+            "secondary": []
+          },
+          {
+            "primary": "dampen",
+            "secondary": ["dampens", "dampened", "dampening"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "buffer",
+            "secondary": ["buffers", "buffered", "buffering"]
+          },
+          {
+            "primary": "mitigating",
+            "secondary": ["mitigate", "mitigates", "mitigated"]
+          },
+          {
+            "primary": "protectively",
+            "secondary": [
+              "protect",
+              "protects",
+              "protected",
+              "protecting",
+              "protective"
+            ]
+          },
+          {
+            "primary": "sheild",
+            "secondary": ["sheilds", "sheilded", "sheilding"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "bolster",
+            "secondary": ["bolsters", "bolstered", "bolstering"]
+          },
+          {
+            "primary": "uplifting",
+            "secondary": ["uplift", "uplifts", "uplifted", "upliftingly"]
+          },
+          {
+            "primary": "supportively",
+            "secondary": [
+              "supports",
+              "supported",
+              "supporting",
+              "supportive",
+              "supportively"
+            ]
+          },
+          {
+            "primary": "fortify",
+            "secondary": ["fortifies", "fortified", "fortifying"]
+          },
+          {
+            "primary": "strengthen",
+            "secondary": [
+              "strength",
+              "strengths",
+              "strengthens",
+              "strengthened",
+              "strengthening"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "book",
+    "image": "/pictos/book.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "book",
+            "secondary": ["books"]
+          },
+          {
+            "primary": "start",
+            "secondary": ["starts", "started", "starting"]
+          },
+          {
+            "primary": "nascent",
+            "secondary": []
+          },
+          {
+            "primary": "incipient",
+            "secondary": []
+          },
+          {
+            "primary": "emergent",
+            "secondary": ["emerge", "emerges", "emerged", "emerging"]
+          },
+          {
+            "primary": "initially",
+            "secondary": ["initial"]
+          },
+          {
+            "primary": "begin",
+            "secondary": ["beginnings", "begins", "began", "beginning"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "close",
+            "secondary": ["closes", "closed", "closing"]
+          },
+          {
+            "primary": "ultimate",
+            "secondary": ["ultimately"]
+          },
+          {
+            "primary": "lastly",
+            "secondary": ["last"]
+          },
+          {
+            "primary": "finally",
+            "secondary": ["final"]
+          },
+          {
+            "primary": "complete",
+            "secondary": [
+              "completion",
+              "completes",
+              "completed",
+              "completing",
+              "completely"
+            ]
+          },
+          {
+            "primary": "finish",
+            "secondary": ["finishes", "finished", "finishing"]
+          },
+          {
+            "primary": "ends",
+            "secondary": ["endings", "end", "ended", "ending"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "epilogue",
+            "secondary": ["epilogues"]
+          },
+          {
+            "primary": "postscript",
+            "secondary": ["postscripts"]
+          },
+          {
+            "primary": "afterthought",
+            "secondary": ["afterthoughts"]
+          },
+          {
+            "primary": "later",
+            "secondary": []
+          },
+          {
+            "primary": "subsequently",
+            "secondary": ["subsequent"]
+          },
+          {
+            "primary": "afterwards",
+            "secondary": []
+          },
+          {
+            "primary": "append",
+            "secondary": ["appends", "appended", "appending"]
+          },
+          {
+            "primary": "add",
+            "secondary": [
+              "addition",
+              "additions",
+              "additional",
+              "additionally",
+              "adds",
+              "added",
+              "adding"
+            ]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "prologue",
+            "secondary": ["prologues"]
+          },
+          {
+            "primary": "preamble",
+            "secondary": ["preambles"]
+          },
+          {
+            "primary": "forward",
+            "secondary": []
+          },
+          {
+            "primary": "before",
+            "secondary": []
+          },
+          {
+            "primary": "preliminarily",
+            "secondary": ["preliminary"]
+          },
+          {
+            "primary": "preface",
+            "secondary": ["prefaces", "prefaced", "prefacing"]
+          },
+          {
+            "primary": "precede",
+            "secondary": ["precedent", "precedes", "preceded", "preceding"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "nut",
+    "image": "/pictos/nut.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "because",
+            "secondary": ["cause", "causes", "caused", "causing"]
+          },
+          {
+            "primary": "nut",
+            "secondary": ["nuts"]
+          },
+          {
+            "primary": "reason",
+            "secondary": ["reasons"]
+          },
+          {
+            "primary": "source",
+            "secondary": ["sources"]
+          },
+          {
+            "primary": "first",
+            "secondary": ["firsts"]
+          },
+          {
+            "primary": "rooted",
+            "secondary": ["root", "roots", "rooting"]
+          },
+          {
+            "primary": "fundamentally",
+            "secondary": ["fundamental"]
+          },
+          {
+            "primary": "originate",
+            "secondary": [
+              "origin",
+              "origins",
+              "original",
+              "originally",
+              "originates",
+              "originated",
+              "originating"
+            ]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "obstacle",
+            "secondary": ["obstacles"]
+          },
+          {
+            "primary": "deterrent",
+            "secondary": ["deterrents", "deter", "deters", "detering"]
+          },
+          {
+            "primary": "preventative",
+            "secondary": ["prevent", "prevented", "prevents", "preventing"]
+          },
+          {
+            "primary": "preemtively",
+            "secondary": ["preemtive"]
+          },
+          {
+            "primary": "forstall",
+            "secondary": ["forstalls", "forstalled", "forstalling"]
+          },
+          {
+            "primary": "hinder",
+            "secondary": [
+              "hinderance",
+              "hinderances",
+              "hinders",
+              "hindered",
+              "hindering"
+            ]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "toward",
+            "secondary": ["to"]
+          },
+          {
+            "primary": "destiny",
+            "secondary": ["destinies", "destined"]
+          },
+          {
+            "primary": "fate",
+            "secondary": ["fates", "fated"]
+          },
+          {
+            "primary": "imminent",
+            "secondary": ["imminently"]
+          },
+          {
+            "primary": "inexorably",
+            "secondary": ["inexorable"]
+          },
+          {
+            "primary": "advance",
+            "secondary": ["advances", "advanced", "advancing"]
+          },
+          {
+            "primary": "progess",
+            "secondary": ["progresses", "progressed", "progressing"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "from",
+            "secondary": []
+          },
+          {
+            "primary": "ancestor",
+            "secondary": ["ancestors"]
+          },
+          {
+            "primary": "heritage",
+            "secondary": []
+          },
+          {
+            "primary": "wellspring",
+            "secondary": []
+          },
+          {
+            "primary": "influential",
+            "secondary": [
+              "influence",
+              "influences",
+              "influenced",
+              "influencing"
+            ]
+          },
+          {
+            "primary": "emanate",
+            "secondary": ["emanates", "emanated", "emanating"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "globe",
+    "image": "/pictos/globe.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "where",
+            "secondary": []
+          },
+          {
+            "primary": "planet",
+            "secondary": ["planets"]
+          },
+          {
+            "primary": "globe",
+            "secondary": ["globes"]
+          },
+          {
+            "primary": "world",
+            "secondary": ["worlds"]
+          },
+          {
+            "primary": "earthly",
+            "secondary": ["earth"]
+          },
+          {
+            "primary": "ubiquitous",
+            "secondary": ["ubiquity"]
+          },
+          {
+            "primary": "everywhere",
+            "secondary": []
+          },
+          {
+            "primary": "always",
+            "secondary": []
+          },
+          {
+            "primary": "turn",
+            "secondary": ["turns", "turned", "turning"]
+          },
+          {
+            "primary": "revolutions",
+            "secondary": [
+              "revolutions",
+              "revolutions",
+              "revolves",
+              "revolved",
+              "revolving"
+            ]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "abyss",
+            "secondary": ["abyssmal", "abyssmally"]
+          },
+          {
+            "primary": "expanse",
+            "secondary": ["expansive"]
+          },
+          {
+            "primary": "vast",
+            "secondary": ["vastly"]
+          },
+          {
+            "primary": "expand",
+            "secondary": ["expands", "expanded", "expanding"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "spot",
+            "secondary": ["spots"]
+          },
+          {
+            "primary": "place",
+            "secondary": ["places"]
+          },
+          {
+            "primary": "fixed",
+            "secondary": ["fixedly"]
+          },
+          {
+            "primary": "particularly",
+            "secondary": ["particular"]
+          },
+          {
+            "primary": "there",
+            "secondary": []
+          },
+          {
+            "primary": "visit",
+            "secondary": ["visits", "visited", "visiting"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "home",
+            "secondary": ["homes"]
+          },
+          {
+            "primary": "homey",
+            "secondary": []
+          },
+          {
+            "primary": "cozy",
+            "secondary": ["cozily"]
+          },
+          {
+            "primary": "hospitable",
+            "secondary": ["hospitably"]
+          },
+          {
+            "primary": "here",
+            "secondary": []
+          },
+          {
+            "primary": "dwell",
+            "secondary": ["dwells", "dwelt", "dwelling", "dwellings"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "sprout",
+    "image": "/pictos/sprout.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "life",
+            "secondary": ["live", "lives", "lived", "living"]
+          },
+          {
+            "primary": "bud",
+            "secondary": ["buds", "budded", "budding"]
+          },
+          {
+            "primary": "sprout",
+            "secondary": ["sprouts", "sprouted", "sprouting"]
+          },
+          {
+            "primary": "alive",
+            "secondary": ["aliveness"]
+          },
+          {
+            "primary": "lively",
+            "secondary": ["liveliness"]
+          },
+          {
+            "primary": "new",
+            "secondary": ["newly"]
+          },
+          {
+            "primary": "vigorously",
+            "secondary": ["vigor", "vigorous"]
+          },
+          {
+            "primary": "grow",
+            "secondary": ["growth", "grows", "grew", "growing"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "hibernation",
+            "secondary": [
+              "hibernate",
+              "hibernates",
+              "hibernated",
+              "hibernating"
+            ]
+          },
+          {
+            "primary": "fallow",
+            "secondary": []
+          },
+          {
+            "primary": "dormant",
+            "secondary": []
+          },
+          {
+            "primary": "idly",
+            "secondary": ["idle", "idles", "idled", "idling"]
+          },
+          {
+            "primary": "wait",
+            "secondary": ["waits", "waited", "waiting"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "hesitation",
+            "secondary": [
+              "hesitant",
+              "hesitate",
+              "hesitates",
+              "hesitated",
+              "hesitating",
+              "hesitatingly"
+            ]
+          },
+          {
+            "primary": "reticent",
+            "secondary": ["reticence", "reticently"]
+          },
+          {
+            "primary": "shy",
+            "secondary": ["shyness", "shyly"]
+          },
+          {
+            "primary": "haltingly",
+            "secondary": ["halting"]
+          },
+          {
+            "primary": "wilt",
+            "secondary": ["wilts", "witled", "wilting"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "exuberance",
+            "secondary": ["exuberant"]
+          },
+          {
+            "primary": "irrepressible",
+            "secondary": ["irrepressibly"]
+          },
+          {
+            "primary": "eagerly",
+            "secondary": ["eager", "eagerness"]
+          },
+          {
+            "primary": "burst",
+            "secondary": ["bursts", "bursted", "bursting"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "wave",
+    "image": "/pictos/wave.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "sea",
+            "secondary": ["seas"]
+          },
+          {
+            "primary": "ocean",
+            "secondary": ["oceans", "oceanic"]
+          },
+          {
+            "primary": "wave",
+            "secondary": ["waves"]
+          },
+          {
+            "primary": "undulating",
+            "secondary": ["undulate", "undulates", "undulated"]
+          },
+          {
+            "primary": "fluidly",
+            "secondary": ["fluid"]
+          },
+          {
+            "primary": "crest",
+            "secondary": ["crests", "crested", "cresting"]
+          },
+          {
+            "primary": "swell",
+            "secondary": ["swells", "swelled", "swelling"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "flood",
+            "secondary": ["floods", "flooded", "flooding"]
+          },
+          {
+            "primary": "torrent",
+            "secondary": ["torrents"]
+          },
+          {
+            "primary": "overwhelming",
+            "secondary": ["overwhelm", "overwhelms", "overwhelmed"]
+          },
+          {
+            "primary": "turbulently",
+            "secondary": ["turbulent"]
+          },
+          {
+            "primary": "drown",
+            "secondary": ["drowns", "drowned", "drowning"]
+          },
+          {
+            "primary": "deluge",
+            "secondary": ["deluged"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "tide",
+            "secondary": ["tides"]
+          },
+          {
+            "primary": "current",
+            "secondary": ["currents"]
+          },
+          {
+            "primary": "changable",
+            "secondary": ["change", "changes", "changed", "changing"]
+          },
+          {
+            "primary": "mercurially",
+            "secondary": ["mercurial"]
+          },
+          {
+            "primary": "vascilate",
+            "secondary": ["vascilates", "vascilated", "vascilating"]
+          },
+          {
+            "primary": "oscilate",
+            "secondary": ["oscilates", "oscilated", "oscilating"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "undertow",
+            "secondary": ["undertows"]
+          },
+          {
+            "primary": "eddy",
+            "secondary": ["eddies"]
+          },
+          {
+            "primary": "deep",
+            "secondary": ["deeply"]
+          },
+          {
+            "primary": "profoundly",
+            "secondary": ["profound"]
+          },
+          {
+            "primary": "sink",
+            "secondary": ["sinks", "sank", "sinking"]
+          },
+          {
+            "primary": "plunge",
+            "secondary": ["plunges", "plunged", "plunging"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "thought",
+    "image": "/pictos/thought.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "why",
+            "secondary": []
+          },
+          {
+            "primary": "bubble",
+            "secondary": ["bubbles", "bubbled", "bubbling"]
+          },
+          {
+            "primary": "question",
+            "secondary": [
+              "questions",
+              "questioned",
+              "questioning",
+              "questioningly"
+            ]
+          },
+          {
+            "primary": "mystery",
+            "secondary": ["mysteries", "mysterious", "mysteriously"]
+          },
+          {
+            "primary": "unknown",
+            "secondary": []
+          },
+          {
+            "primary": "quizzically",
+            "secondary": ["quizzical"]
+          },
+          {
+            "primary": "wonder",
+            "secondary": ["wonders", "wondered", "wondering"]
+          },
+          {
+            "primary": "ask",
+            "secondary": ["asks", "asked", "asking"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "certainty",
+            "secondary": ["certainties", "certainly"]
+          },
+          {
+            "primary": "plain",
+            "secondary": ["plainly"]
+          },
+          {
+            "primary": "obviously",
+            "secondary": ["obvious"]
+          },
+          {
+            "primary": "explain",
+            "secondary": ["explains", "explained", "eplaining", "explanation"]
+          },
+          {
+            "primary": "answer",
+            "secondary": ["answers", "answered", "answering"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "doubt",
+            "secondary": [
+              "doubts",
+              "doubted",
+              "doubting",
+              "doubtful",
+              "doubtfully"
+            ]
+          },
+          {
+            "primary": "confusion",
+            "secondary": ["confuse", "confuses", "confused", "confusing"]
+          },
+          {
+            "primary": "dubious",
+            "secondary": ["dubiously"]
+          },
+          {
+            "primary": "unsure",
+            "secondary": []
+          },
+          {
+            "primary": "uncertainly",
+            "secondary": ["uncertainty", "uncertain"]
+          },
+          {
+            "primary": "puzzle",
+            "secondary": ["puzzles", "puzzled", "puzzling"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "possibility",
+            "secondary": ["possibilities", "possible", "possibly"]
+          },
+          {
+            "primary": "potential",
+            "secondary": ["potentially"]
+          },
+          {
+            "primary": "maybe",
+            "secondary": ["may", "may have been"]
+          },
+          {
+            "primary": "perhaps",
+            "secondary": []
+          },
+          {
+            "primary": "might",
+            "secondary": ["might have"]
+          },
+          {
+            "primary": "could be",
+            "secondary": ["could have been"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "tree",
+    "image": "/pictos/tree.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "shore",
+            "secondary": ["shores"]
+          },
+          {
+            "primary": "refuge",
+            "secondary": ["refuges"]
+          },
+          {
+            "primary": "verging",
+            "secondary": ["verge", "verges", "verged"]
+          },
+          {
+            "primary": "skirting",
+            "secondary": ["skirt", "skirts", "skirted"]
+          },
+          {
+            "primary": "almost",
+            "secondary": []
+          },
+          {
+            "primary": "border",
+            "secondary": ["borders", "bordered", "bordering"]
+          },
+          {
+            "primary": "harbor",
+            "secondary": ["harbors", "harbored", "harboring"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "influx",
+            "secondary": ["influxes"]
+          },
+          {
+            "primary": "mangrove",
+            "secondary": ["mangroves"]
+          },
+          {
+            "primary": "replete",
+            "secondary": ["repletely"]
+          },
+          {
+            "primary": "awash",
+            "secondary": []
+          },
+          {
+            "primary": "abundantly",
+            "secondary": ["abundance", "abundant"]
+          },
+          {
+            "primary": "engulf",
+            "secondary": ["engulfs", "engulfed", "engulfing"]
+          },
+          {
+            "primary": "inundate",
+            "secondary": ["inundation", "inundates", "inundated", "inundating"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "spindrift",
+            "secondary": []
+          },
+          {
+            "primary": "seaspray",
+            "secondary": []
+          },
+          {
+            "primary": "diffuse",
+            "secondary": ["diffusely"]
+          },
+          {
+            "primary": "misty",
+            "secondary": ["mist", "mists", "misted", "misting"]
+          },
+          {
+            "primary": "airily",
+            "secondary": ["airy"]
+          },
+          {
+            "primary": "spray",
+            "secondary": ["sprays", "sprayed", "spraying"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "breakers",
+            "secondary": []
+          },
+          {
+            "primary": "unyielding",
+            "secondary": ["unyieldingly"]
+          },
+          {
+            "primary": "relentlessly",
+            "secondary": ["relentlessness", "relentless"]
+          },
+          {
+            "primary": "dash",
+            "secondary": ["dashes", "dashed", "dashing"]
+          },
+          {
+            "primary": "crash",
+            "secondary": ["crashes", "crashed", "crashing"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "sun",
+    "image": "/pictos/sun.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "sun",
+            "secondary": ["suns", "sunrise", "sunrises"]
+          },
+          {
+            "primary": "daylight",
+            "secondary": []
+          },
+          {
+            "primary": "morning",
+            "secondary": ["mornings"]
+          },
+          {
+            "primary": "light",
+            "secondary": ["lights", "lighted", "lighting"]
+          },
+          {
+            "primary": "early",
+            "secondary": []
+          },
+          {
+            "primary": "brightly",
+            "secondary": [
+              "brightness",
+              "bright",
+              "brighten",
+              "brightens",
+              "brightened",
+              "brightening"
+            ]
+          },
+          {
+            "primary": "dawn",
+            "secondary": ["dawns", "dawned", "dawning"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "sunset",
+            "secondary": ["sunsets"]
+          },
+          {
+            "primary": "dusk",
+            "secondary": ["dusky"]
+          },
+          {
+            "primary": "twilight",
+            "secondary": ["twilit"]
+          },
+          {
+            "primary": "evening",
+            "secondary": ["evenings"]
+          },
+          {
+            "primary": "dark",
+            "secondary": [
+              "darkness",
+              "darken",
+              "darkens",
+              "darkened",
+              "darkening"
+            ]
+          },
+          {
+            "primary": "late",
+            "secondary": []
+          },
+          {
+            "primary": "dimly",
+            "secondary": ["dimness", "dim", "dims", "dimmed", "dimming"]
+          },
+          {
+            "primary": "dwindle",
+            "secondary": ["dwindles", "dwindled", "dwindling"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "yesterday",
+            "secondary": ["yesterdays"]
+          },
+          {
+            "primary": "past",
+            "secondary": ["pasts", "pass", "passes", "passed", "passing"]
+          },
+          {
+            "primary": "former",
+            "secondary": []
+          },
+          {
+            "primary": "bygone",
+            "secondary": []
+          },
+          {
+            "primary": "irrevocably",
+            "secondary": ["irrevocable"]
+          },
+          {
+            "primary": "go",
+            "secondary": ["gone", "goes", "went", "going"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "when",
+            "secondary": []
+          },
+          {
+            "primary": "tomorrow",
+            "secondary": ["tomorrows"]
+          },
+          {
+            "primary": "future",
+            "secondary": ["futures"]
+          },
+          {
+            "primary": "impending",
+            "secondary": []
+          },
+          {
+            "primary": "coming",
+            "secondary": ["come", "comes", "came"]
+          },
+          {
+            "primary": "inevitably",
+            "secondary": ["inevitability", "inevitabilities", "inevitable"]
+          },
+          {
+            "primary": "arrive",
+            "secondary": [
+              "arrival",
+              "arrivals",
+              "arrives",
+              "arrived",
+              "arriving"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "sky",
+    "image": "/pictos/sky.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "breeze",
+            "secondary": ["breezes", "breezy"]
+          },
+          {
+            "primary": "wind",
+            "secondary": ["winds", "windy"]
+          },
+          {
+            "primary": "sky",
+            "secondary": ["skies"]
+          },
+          {
+            "primary": "blustery",
+            "secondary": ["bluster", "blustered", "blustering"]
+          },
+          {
+            "primary": "tempestuously",
+            "secondary": ["tempestuous"]
+          },
+          {
+            "primary": "blow",
+            "secondary": ["blows", "blew", "blowing"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "still",
+            "secondary": ["stillness", "stills", "stilled", "stilling"]
+          },
+          {
+            "primary": "quiet",
+            "secondary": ["quiets", "quieted", "quieting"]
+          },
+          {
+            "primary": "placid",
+            "secondary": ["placidly"]
+          },
+          {
+            "primary": "tranquil",
+            "secondary": ["tranquilly"]
+          },
+          {
+            "primary": "serenely",
+            "secondary": ["serene"]
+          },
+          {
+            "primary": "settle",
+            "secondary": ["settles", "settled", "settling"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "petrichor",
+            "secondary": []
+          },
+          {
+            "primary": "fresh",
+            "secondary": ["freshness", "freshly"]
+          },
+          {
+            "primary": "clearly",
+            "secondary": ["clear", "clears", "cleared", "clearing"]
+          },
+          {
+            "primary": "refresh",
+            "secondary": [
+              "refreshes",
+              "refreshed",
+              "refreshing",
+              "refreshingly"
+            ]
+          },
+          {
+            "primary": "clarify",
+            "secondary": ["clarity", "clarifies", "clarified", "clarifying"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "fog",
+            "secondary": ["fogs", "fogged", "fogging", "foggy"]
+          },
+          {
+            "primary": "nebulous",
+            "secondary": ["nebulousness"]
+          },
+          {
+            "primary": "hazy",
+            "secondary": ["haze", "hazily"]
+          },
+          {
+            "primary": "indistinctly",
+            "secondary": ["indistinct"]
+          },
+          {
+            "primary": "cloudy",
+            "secondary": ["clouds", "clouded", "clouding"]
+          },
+          {
+            "primary": "blur",
+            "secondary": ["blurs", "blurred", "blurring"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "stand",
+    "image": "/pictos/stand.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "you",
+            "secondary": ["yourself"]
+          },
+          {
+            "primary": "person",
+            "secondary": ["persons", "personal", "personally"]
+          },
+          {
+            "primary": "your",
+            "secondary": ["yours"]
+          },
+          {
+            "primary": "stalwart",
+            "secondary": ["stalwartly"]
+          },
+          {
+            "primary": "steadfast",
+            "secondary": ["steadfastly"]
+          },
+          {
+            "primary": "faithfully",
+            "secondary": ["faithful"]
+          },
+          {
+            "primary": "prevail",
+            "secondary": ["prevails", "prevailed", "prevailing", "prevailingly"]
+          },
+          {
+            "primary": "stood",
+            "secondary": ["stance", "stances", "stand", "stands", "standing"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "they",
+            "secondary": ["them", "themself"]
+          },
+          {
+            "primary": "individuality",
+            "secondary": ["individual", "individuals", "individually"]
+          },
+          {
+            "primary": "their",
+            "secondary": ["theirs"]
+          },
+          {
+            "primary": "unique",
+            "secondary": ["uniquely"]
+          },
+          {
+            "primary": "uninhibited",
+            "secondary": []
+          },
+          {
+            "primary": "unreservedly",
+            "secondary": ["unreserved"]
+          },
+          {
+            "primary": "dive",
+            "secondary": ["dives", "dived", "dove", "diving"]
+          },
+          {
+            "primary": "swoop",
+            "secondary": ["swoops", "swooped", "swooping"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "he",
+            "secondary": ["him", "himself"]
+          },
+          {
+            "primary": "man",
+            "secondary": ["men"]
+          },
+          {
+            "primary": "his",
+            "secondary": []
+          },
+          {
+            "primary": "volant",
+            "secondary": []
+          },
+          {
+            "primary": "aloft",
+            "secondary": []
+          },
+          {
+            "primary": "soaringly",
+            "secondary": ["soar", "soars", "soared", "soaring"]
+          },
+          {
+            "primary": "fly",
+            "secondary": ["flight", "flies", "flew", "flying"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "she",
+            "secondary": ["her", "herself"]
+          },
+          {
+            "primary": "woman",
+            "secondary": ["women"]
+          },
+          {
+            "primary": "hers",
+            "secondary": []
+          },
+          {
+            "primary": "equanimity",
+            "secondary": []
+          },
+          {
+            "primary": "level",
+            "secondary": ["levels", "leveled", "leveling", "levelly"]
+          },
+          {
+            "primary": "evenly",
+            "secondary": ["even"]
+          },
+          {
+            "primary": "steadily",
+            "secondary": [
+              "steadiness",
+              "steady",
+              "steadies",
+              "steadied",
+              "steadying"
+            ]
+          },
+          {
+            "primary": "balance",
+            "secondary": ["balances", "balanced", "balancing"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 16,
+    "name": "nape",
+    "image": "/pictos/nape.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "who",
+            "secondary": []
+          },
+          {
+            "primary": "someone",
+            "secondary": ["somebody"]
+          },
+          {
+            "primary": "presence",
+            "secondary": []
+          },
+          {
+            "primary": "human",
+            "secondary": ["humans", "humanly"]
+          },
+          {
+            "primary": "subjectively",
+            "secondary": ["subjective"]
+          },
+          {
+            "primary": "exist",
+            "secondary": ["existence", "exists", "existed", "existing"]
+          },
+          {
+            "primary": "be",
+            "secondary": ["being", "beings", "been"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "phantom",
+            "secondary": ["phantoms"]
+          },
+          {
+            "primary": "ghost",
+            "secondary": ["ghosts"]
+          },
+          {
+            "primary": "unmoored",
+            "secondary": []
+          },
+          {
+            "primary": "adrift",
+            "secondary": ["drift", "drifts", "drifted", "drifting"]
+          },
+          {
+            "primary": "aimlessly",
+            "secondary": ["aimlessness", "aimless"]
+          },
+          {
+            "primary": "haunt",
+            "secondary": ["haunts", "haunted", "haunting", "hauntingly"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "shadow",
+            "secondary": ["shadows"]
+          },
+          {
+            "primary": "subconscious",
+            "secondary": ["subconsciously"]
+          },
+          {
+            "primary": "subliminal",
+            "secondary": []
+          },
+          {
+            "primary": "shrouded",
+            "secondary": ["shroud", "shrouds", "shrouding"]
+          },
+          {
+            "primary": "unconsciously",
+            "secondary": ["unconscious"]
+          },
+          {
+            "primary": "repress",
+            "secondary": ["represses", "repressed", "repressing"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "facade",
+            "secondary": ["facades"]
+          },
+          {
+            "primary": "mask",
+            "secondary": ["masks", "masked", "masking"]
+          },
+          {
+            "primary": "pretend",
+            "secondary": ["pretends", "pretended", "pretending"]
+          },
+          {
+            "primary": "secretly",
+            "secondary": ["secret", "secrets"]
+          },
+          {
+            "primary": "masquerade",
+            "secondary": ["masquerades", "masqueraded", "masquerading"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 17,
+    "name": "walker",
+    "image": "/pictos/walker.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "step",
+            "secondary": ["steps", "stepped", "stepping"]
+          },
+          {
+            "primary": "gait",
+            "secondary": []
+          },
+          {
+            "primary": "wanderer",
+            "secondary": [
+              "wanderers",
+              "wander",
+              "wanders",
+              "wandered",
+              "wandering"
+            ]
+          },
+          {
+            "primary": "roaming",
+            "secondary": ["roam", "roams", "roamed"]
+          },
+          {
+            "primary": "meanderingly",
+            "secondary": ["meander", "meanders", "meandered", "meandering"]
+          },
+          {
+            "primary": "ramble",
+            "secondary": ["rambles", "rambled", "rambling"]
+          },
+          {
+            "primary": "walks",
+            "secondary": ["walk", "walked", "walking"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "orbit",
+            "secondary": ["orbits", "orbited", "orbiting"]
+          },
+          {
+            "primary": "loop",
+            "secondary": ["loops", "looped", "looping"]
+          },
+          {
+            "primary": "circular",
+            "secondary": []
+          },
+          {
+            "primary": "recurring",
+            "secondary": ["recur", "recurs", "recurred"]
+          },
+          {
+            "primary": "prodigally",
+            "secondary": ["prodigal"]
+          },
+          {
+            "primary": "retrace",
+            "secondary": ["retraces", "retraced", "retracing"]
+          },
+          {
+            "primary": "return",
+            "secondary": ["returns", "returned", "returning"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "departure",
+            "secondary": [
+              "departures",
+              "depart",
+              "departs",
+              "departed",
+              "departing"
+            ]
+          },
+          {
+            "primary": "goodbye",
+            "secondary": ["goodbyes"]
+          },
+          {
+            "primary": "waning",
+            "secondary": ["wane", "wanes", "waned"]
+          },
+          {
+            "primary": "fugitively",
+            "secondary": ["fugative"]
+          },
+          {
+            "primary": "disappear",
+            "secondary": [
+              "disappears",
+              "disappeared",
+              "disappearing",
+              "disappearingly"
+            ]
+          },
+          {
+            "primary": "leave",
+            "secondary": ["leaves", "left", "leaving"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "detour",
+            "secondary": ["detours", "detoured", "detouring"]
+          },
+          {
+            "primary": "circuitous",
+            "secondary": ["circuitously"]
+          },
+          {
+            "primary": "convoluted",
+            "secondary": []
+          },
+          {
+            "primary": "evasively",
+            "secondary": ["evasive", "evade", "evades", "evaded", "evading"]
+          },
+          {
+            "primary": "elude",
+            "secondary": ["eludes", "eluded", "eluding"]
+          },
+          {
+            "primary": "avoid",
+            "secondary": ["avoids", "avoided", "avoiding"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 18,
+    "name": "ring",
+    "image": "/pictos/ring.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "unity",
+            "secondary": ["unite", "unites", "united", "uniting"]
+          },
+          {
+            "primary": "circle",
+            "secondary": ["circles"]
+          },
+          {
+            "primary": "unified",
+            "secondary": ["unify", "unifies", "unifying"]
+          },
+          {
+            "primary": "concordant",
+            "secondary": ["concord", "concords"]
+          },
+          {
+            "primary": "harmoniously",
+            "secondary": ["harmonious"]
+          },
+          {
+            "primary": "belong",
+            "secondary": ["belongs", "belonged", "belonging"]
+          },
+          {
+            "primary": "agree",
+            "secondary": ["agrees", "agreed", "agreeing"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "recluse",
+            "secondary": ["recluses"]
+          },
+          {
+            "primary": "loner",
+            "secondary": ["loners"]
+          },
+          {
+            "primary": "unaided",
+            "secondary": []
+          },
+          {
+            "primary": "alone",
+            "secondary": ["aloneness"]
+          },
+          {
+            "primary": "solely",
+            "secondary": []
+          },
+          {
+            "primary": "solitarily",
+            "secondary": ["solitary"]
+          },
+          {
+            "primary": "isolate",
+            "secondary": ["isolates", "isolated", "isolating"]
+          },
+          {
+            "primary": "withdraw",
+            "secondary": ["withdraws", "withdrew", "withdrawing", "withdrawn"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "coterie",
+            "secondary": []
+          },
+          {
+            "primary": "clique",
+            "secondary": ["cliques"]
+          },
+          {
+            "primary": "insular",
+            "secondary": ["insularity"]
+          },
+          {
+            "primary": "exclusively",
+            "secondary": [
+              "exclusive",
+              "exclude",
+              "excludes",
+              "excluded",
+              "excluding"
+            ]
+          },
+          {
+            "primary": "insulate",
+            "secondary": ["insulates", "insulated", "insulating"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "community",
+            "secondary": ["communities"]
+          },
+          {
+            "primary": "fellowship",
+            "secondary": ["fellowships"]
+          },
+          {
+            "primary": "shared",
+            "secondary": ["share", "shares", "sharing"]
+          },
+          {
+            "primary": "mutually",
+            "secondary": ["mutual"]
+          },
+          {
+            "primary": "invite",
+            "secondary": ["invites", "invited", "inviting"]
+          },
+          {
+            "primary": "include",
+            "secondary": ["includes", "included", "including"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 19,
+    "name": "face",
+    "image": "/pictos/face.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "expression",
+            "secondary": ["expressions"]
+          },
+          {
+            "primary": "fear",
+            "secondary": ["fears", "fearful", "fearfully", "feared", "fearing"]
+          },
+          {
+            "primary": "nightmare",
+            "secondary": ["nightmares"]
+          },
+          {
+            "primary": "afraid",
+            "secondary": []
+          },
+          {
+            "primary": "anxiously",
+            "secondary": ["anxiety", "anxieties", "anxious"]
+          },
+          {
+            "primary": "worry",
+            "secondary": ["worries", "worried", "worrying"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "courage",
+            "secondary": ["courageous", "courageously"]
+          },
+          {
+            "primary": "resolve",
+            "secondary": ["resolute"]
+          },
+          {
+            "primary": "brave",
+            "secondary": ["bravery", "bravely"]
+          },
+          {
+            "primary": "undaunted",
+            "secondary": []
+          },
+          {
+            "primary": "fearlessly",
+            "secondary": ["fearlessness", "fearlessn"]
+          },
+          {
+            "primary": "embolden",
+            "secondary": ["emboldens", "emboldened", "emboldening"]
+          },
+          {
+            "primary": "hearten",
+            "secondary": ["heartens", "heartened", "heartening"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "acceptance",
+            "secondary": ["accept", "accepts", "accepting"]
+          },
+          {
+            "primary": "acquiescent",
+            "secondary": [
+              "acquiescence",
+              "acquiesce",
+              "acquiesces",
+              "acquiesced",
+              "acquiescing"
+            ]
+          },
+          {
+            "primary": "willingly",
+            "secondary": ["willing"]
+          },
+          {
+            "primary": "allow",
+            "secondary": ["allows", "allowed", "allowing"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "resistance",
+            "secondary": ["resist", "resists", "resisted", "resisting"]
+          },
+          {
+            "primary": "dissent",
+            "secondary": ["dissension", "dissents", "dissented", "dissenting"]
+          },
+          {
+            "primary": "unwilling",
+            "secondary": ["unwillingly"]
+          },
+          {
+            "primary": "reluctant",
+            "secondary": ["reluctance", "reluctantly"]
+          },
+          {
+            "primary": "defiantly",
+            "secondary": ["defiance", "defiant"]
+          },
+          {
+            "primary": "refuse",
+            "secondary": ["refuses", "refused", "refusing"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 20,
+    "name": "faces",
+    "image": "/pictos/faces.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "face",
+            "secondary": ["faces", "faced", "facing"]
+          },
+          {
+            "primary": "embrace",
+            "secondary": ["embraces", "embraced", "embracing"]
+          },
+          {
+            "primary": "intimate",
+            "secondary": ["intimacy", "intimacies", "intimately"]
+          },
+          {
+            "primary": "affectionately",
+            "secondary": ["affection", "affections", "affectionate"]
+          },
+          {
+            "primary": "kissing",
+            "secondary": ["kiss", "kisses", "kissed"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "quarrel",
+            "secondary": ["quarrels", "quarrelled", "quarrelling"]
+          },
+          {
+            "primary": "disagreement",
+            "secondary": [
+              "disagreements",
+              "disagree",
+              "disagrees",
+              "disagreed",
+              "disagreeing"
+            ]
+          },
+          {
+            "primary": "hostile",
+            "secondary": ["hostility", "hostilities"]
+          },
+          {
+            "primary": "truculent",
+            "secondary": ["truculence"]
+          },
+          {
+            "primary": "fractiously",
+            "secondary": ["fractious"]
+          },
+          {
+            "primary": "fight",
+            "secondary": ["fights", "fought", "fighting"]
+          },
+          {
+            "primary": "arguing",
+            "secondary": [
+              "argue",
+              "argues",
+              "argued",
+              "argumentative",
+              "argumentatively"
+            ]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "other",
+            "secondary": ["others"]
+          },
+          {
+            "primary": "enemy",
+            "secondary": ["enemies"]
+          },
+          {
+            "primary": "distrustful",
+            "secondary": ["distrust", "distrusts", "distrusted", "distrusting"]
+          },
+          {
+            "primary": "wary",
+            "secondary": ["warily"]
+          },
+          {
+            "primary": "defensively",
+            "secondary": ["defense", "defenses", "defensive"]
+          },
+          {
+            "primary": "alienate",
+            "secondary": ["alienation", "alienates", "alienated", "alienating"]
+          },
+          {
+            "primary": "estrange",
+            "secondary": ["estrangement", "estranged"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "each other",
+            "secondary": []
+          },
+          {
+            "primary": "friend",
+            "secondary": ["friends", "friendly"]
+          },
+          {
+            "primary": "companion",
+            "secondary": ["companions"]
+          },
+          {
+            "primary": "gregarious",
+            "secondary": ["gregariously"]
+          },
+          {
+            "primary": "amiably",
+            "secondary": ["amiable"]
+          },
+          {
+            "primary": "associate",
+            "secondary": ["associates", "associated", "associating"]
+          },
+          {
+            "primary": "befriend",
+            "secondary": ["befriends", "befriended", "befriending"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 21,
+    "name": "eye",
+    "image": "/pictos/eye.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "I",
+            "secondary": ["me", "myself", "my", "mine"]
+          },
+          {
+            "primary": "sight",
+            "secondary": ["sights"]
+          },
+          {
+            "primary": "eye",
+            "secondary": ["eyes", "eyed", "eyeing"]
+          },
+          {
+            "primary": "observant",
+            "secondary": [
+              "observe",
+              "observes",
+              "observed",
+              "observing",
+              "observantly"
+            ]
+          },
+          {
+            "primary": "look",
+            "secondary": ["looks", "looked", "looking"]
+          },
+          {
+            "primary": "see",
+            "secondary": ["sees", "saw", "seeing"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "blind",
+            "secondary": ["blindness", "blindly"]
+          },
+          {
+            "primary": "oblivious",
+            "secondary": ["obliviousness", "obliviously"]
+          },
+          {
+            "primary": "unseeing",
+            "secondary": []
+          },
+          {
+            "primary": "sightlessly",
+            "secondary": ["sightless"]
+          },
+          {
+            "primary": "overlook",
+            "secondary": ["overlooks", "overlooked", "overlooking"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "foresight",
+            "secondary": []
+          },
+          {
+            "primary": "premonition",
+            "secondary": ["premonitions"]
+          },
+          {
+            "primary": "visionary",
+            "secondary": ["vision", "visions"]
+          },
+          {
+            "primary": "presciently",
+            "secondary": ["prescience", "prescient"]
+          },
+          {
+            "primary": "envision",
+            "secondary": ["envisions", "envisioned", "envisioning"]
+          },
+          {
+            "primary": "foresee",
+            "secondary": ["foresees", "forsaw", "forseeing"]
+          },
+          {
+            "primary": "dream",
+            "secondary": ["dreams", "dreamt", "dreaming"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "insight",
+            "secondary": ["insights", "insightful", "insightfully"]
+          },
+          {
+            "primary": "discerning",
+            "secondary": ["discern", "discerns", "discerned"]
+          },
+          {
+            "primary": "perceptively",
+            "secondary": [
+              "perception",
+              "perceive",
+              "perceives",
+              "perceived",
+              "perceiving"
+            ]
+          },
+          {
+            "primary": "recognize",
+            "secondary": ["recognizes", "recognized", "recognizing"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 22,
+    "name": "hand",
+    "image": "/pictos/hand.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "hand",
+            "secondary": ["hands", "handed", "handing"]
+          },
+          {
+            "primary": "arousing",
+            "secondary": [
+              "arousal",
+              "arouse",
+              "arouses",
+              "aroused",
+              "arousingly"
+            ]
+          },
+          {
+            "primary": "stirringly",
+            "secondary": ["stirring", "stir", "stirs", "stirred"]
+          },
+          {
+            "primary": "give",
+            "secondary": ["gives", "gave", "giving"]
+          },
+          {
+            "primary": "touch",
+            "secondary": ["touches", "touched", "touching"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "vulnerability",
+            "secondary": ["vulnerable"]
+          },
+          {
+            "primary": "receptive",
+            "secondary": [
+              "receive",
+              "receives",
+              "received",
+              "receiving",
+              "receptively"
+            ]
+          },
+          {
+            "primary": "openly",
+            "secondary": ["openess", "open"]
+          },
+          {
+            "primary": "sense",
+            "secondary": ["senses", "sensed", "sensing", "sensual"]
+          },
+          {
+            "primary": "feel",
+            "secondary": ["feels", "felt", "feeling", "feelings"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "greeting",
+            "secondary": ["greet", "greets", "greeted"]
+          },
+          {
+            "primary": "hello",
+            "secondary": []
+          },
+          {
+            "primary": "sincere",
+            "secondary": ["sincerity"]
+          },
+          {
+            "primary": "welcoming",
+            "secondary": ["welcome", "welcomes", "welcomed"]
+          },
+          {
+            "primary": "affably",
+            "secondary": ["affable"]
+          },
+          {
+            "primary": "meet",
+            "secondary": ["meets", "met", "meeting"]
+          },
+          {
+            "primary": "reach",
+            "secondary": ["reaches", "reached", "reaching"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "release",
+            "secondary": ["releases", "released", "releasing"]
+          },
+          {
+            "primary": "drop",
+            "secondary": ["drops", "dropped", "dropping"]
+          },
+          {
+            "primary": "free",
+            "secondary": ["frees", "freed", "freeing", "freely"]
+          },
+          {
+            "primary": "loosely",
+            "secondary": ["loose", "loosen", "loosened", "loosening"]
+          },
+          {
+            "primary": "surrender",
+            "secondary": ["surrenders", "surrendered", "surrendering"]
+          },
+          {
+            "primary": "let go",
+            "secondary": ["lets go", "letting go"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 23,
+    "name": "hands",
+    "image": "/pictos/hands.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "plant",
+            "secondary": ["plants", "planted", "planting"]
+          },
+          {
+            "primary": "benefit",
+            "secondary": ["benefits", "benefited", "benefitting"]
+          },
+          {
+            "primary": "good",
+            "secondary": ["goodness"]
+          },
+          {
+            "primary": "better",
+            "secondary": ["best"]
+          },
+          {
+            "primary": "helpfully",
+            "secondary": ["help", "helps", "helped", "helping", "helpful"]
+          },
+          {
+            "primary": "offer",
+            "secondary": ["offers", "offered", "offering"]
+          },
+          {
+            "primary": "elevate",
+            "secondary": ["elevates", "elevated", "elevating"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "gift",
+            "secondary": ["gifts"]
+          },
+          {
+            "primary": "bountiful",
+            "secondary": ["bounty"]
+          },
+          {
+            "primary": "generously",
+            "secondary": ["generous", "generosity"]
+          },
+          {
+            "primary": "entrust",
+            "secondary": ["entrusts", "entrusted", "entrusting"]
+          },
+          {
+            "primary": "bestow",
+            "secondary": ["bestows", "bestowed", "bestowing"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "amnesty",
+            "secondary": []
+          },
+          {
+            "primary": "pardon",
+            "secondary": ["pardons", "pardoned", "pardoning"]
+          },
+          {
+            "primary": "forgiving",
+            "secondary": ["forgiveness", "forgive", "forgives", "forgave"]
+          },
+          {
+            "primary": "mercifully",
+            "secondary": ["mercy", "merciful"]
+          },
+          {
+            "primary": "absolve",
+            "secondary": ["absolution", "absolves", "absolved", "absolving"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "kindness",
+            "secondary": ["kind", "kindly"]
+          },
+          {
+            "primary": "compassionate",
+            "secondary": ["compassionately"]
+          },
+          {
+            "primary": "tenderly",
+            "secondary": ["tender", "tenderness"]
+          },
+          {
+            "primary": "nurture",
+            "secondary": ["nurtures", "nurtured", "nurturing"]
+          },
+          {
+            "primary": "care",
+            "secondary": ["cares", "cared", "caring"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 24,
+    "name": "feather",
+    "image": "/pictos/feather.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "author",
+            "secondary": ["authors"]
+          },
+          {
+            "primary": "quill",
+            "secondary": ["quills"]
+          },
+          {
+            "primary": "expressive",
+            "secondary": ["expressively"]
+          },
+          {
+            "primary": "eloquently",
+            "secondary": ["eloquent"]
+          },
+          {
+            "primary": "tell",
+            "secondary": ["tells", "told", "telling"]
+          },
+          {
+            "primary": "write",
+            "secondary": ["written", "writes", "wrote", "writing"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "feather",
+            "secondary": ["feathers", "feathered", "feathering", "feathery"]
+          },
+          {
+            "primary": "velvety",
+            "secondary": []
+          },
+          {
+            "primary": "soft",
+            "secondary": ["softness", "softly"]
+          },
+          {
+            "primary": "plush",
+            "secondary": []
+          },
+          {
+            "primary": "gently",
+            "secondary": ["gentle", "gentles", "gentled", "gentling"]
+          },
+          {
+            "primary": "soften",
+            "secondary": ["softens", "softened", "softening"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "plume",
+            "secondary": ["plumage", "plumes", "plumed"]
+          },
+          {
+            "primary": "adorned",
+            "secondary": ["adorn", "adorns", "adorning"]
+          },
+          {
+            "primary": "resplendently",
+            "secondary": ["resplendent"]
+          },
+          {
+            "primary": "embellish",
+            "secondary": [
+              "embellishment",
+              "embellishes",
+              "embellished",
+              "embellishing"
+            ]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "fluff",
+            "secondary": ["fluffs", "fluffed", "fluffing", "fluffy"]
+          },
+          {
+            "primary": "downy",
+            "secondary": ["down"]
+          },
+          {
+            "primary": "tickly",
+            "secondary": [
+              "tickle",
+              "tickles",
+              "tickled",
+              "tickling",
+              "ticklingly"
+            ]
+          },
+          {
+            "primary": "diaphanously",
+            "secondary": ["diaphanous"]
+          },
+          {
+            "primary": "brush",
+            "secondary": ["brushes", "brushed", "brushing"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 25,
+    "name": "group",
+    "image": "/pictos/group.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "people",
+            "secondary": ["peoples"]
+          },
+          {
+            "primary": "everyone",
+            "secondary": []
+          },
+          {
+            "primary": "together",
+            "secondary": ["togetherness"]
+          },
+          {
+            "primary": "thronged",
+            "secondary": ["throng", "throngs", "thronging"]
+          },
+          {
+            "primary": "teemingly",
+            "secondary": ["teem", "teems", "teemed", "teeming"]
+          },
+          {
+            "primary": "gather",
+            "secondary": ["gathers", "gathered", "gathering"]
+          },
+          {
+            "primary": "crowd",
+            "secondary": ["crowds", "crowded", "crowding"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "nobody",
+            "secondary": []
+          },
+          {
+            "primary": "no one",
+            "secondary": []
+          },
+          {
+            "primary": "desolate",
+            "secondary": ["desolately"]
+          },
+          {
+            "primary": "vacantly",
+            "secondary": ["vacant"]
+          },
+          {
+            "primary": "desert",
+            "secondary": ["deserts", "deserted", "deserting"]
+          },
+          {
+            "primary": "abandon",
+            "secondary": ["abandons", "abandoned", "abandoning"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "they",
+            "secondary": ["them", "themselves"]
+          },
+          {
+            "primary": "strangers",
+            "secondary": ["stranger"]
+          },
+          {
+            "primary": "their",
+            "secondary": ["theirs"]
+          },
+          {
+            "primary": "unaquainted",
+            "secondary": []
+          },
+          {
+            "primary": "unfamiliarly",
+            "secondary": ["unfamiliar"]
+          },
+          {
+            "primary": "approach",
+            "secondary": ["approaches", "approached", "approaching"]
+          },
+          {
+            "primary": "encounter",
+            "secondary": ["encounters", "encountered", "encountering"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "we",
+            "secondary": ["us", "ourself", "ourselves"]
+          },
+          {
+            "primary": "family",
+            "secondary": ["families", "familiar"]
+          },
+          {
+            "primary": "our",
+            "secondary": ["ours"]
+          },
+          {
+            "primary": "kindred",
+            "secondary": []
+          },
+          {
+            "primary": "akin",
+            "secondary": []
+          },
+          {
+            "primary": "similarly",
+            "secondary": ["similar"]
+          },
+          {
+            "primary": "join",
+            "secondary": ["joins", "joined", "joining"]
+          },
+          {
+            "primary": "group",
+            "secondary": ["groups", "grouped", "grouping"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 26,
+    "name": "stones",
+    "image": "/pictos/stones.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "how",
+            "secondary": []
+          },
+          {
+            "primary": "way",
+            "secondary": ["ways"]
+          },
+          {
+            "primary": "path",
+            "secondary": ["paths"]
+          },
+          {
+            "primary": "pliant",
+            "secondary": []
+          },
+          {
+            "primary": "biddably",
+            "secondary": ["biddable"]
+          },
+          {
+            "primary": "trace",
+            "secondary": ["traces", "traced", "tracing"]
+          },
+          {
+            "primary": "follow",
+            "secondary": ["follow", "followed", "following"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "guide",
+            "secondary": ["guides", "guided", "guiding"]
+          },
+          {
+            "primary": "inspiring",
+            "secondary": ["inspire", "inspires", "inspired", "inspiring"]
+          },
+          {
+            "primary": "persuasively",
+            "secondary": ["persuasive"]
+          },
+          {
+            "primary": "lead",
+            "secondary": ["leads", "led", "leading"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "vocation",
+            "secondary": ["vocations"]
+          },
+          {
+            "primary": "calling",
+            "secondary": ["callings"]
+          },
+          {
+            "primary": "compelling",
+            "secondary": ["compellingly", "compel", "compels", "compelled"]
+          },
+          {
+            "primary": "irresistibly",
+            "secondary": ["irresistible"]
+          },
+          {
+            "primary": "beckon",
+            "secondary": ["beckons", "beckoned", "beckoning"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "quest",
+            "secondary": ["quests"]
+          },
+          {
+            "primary": "inquisitive",
+            "secondary": ["inquisitively"]
+          },
+          {
+            "primary": "searchingly",
+            "secondary": ["search", "searches", "searched", "searching"]
+          },
+          {
+            "primary": "seek",
+            "secondary": ["seeks", "sought", "seeking"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 27,
+    "name": "rest",
+    "image": "/pictos/rest.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "rest",
+            "secondary": ["rests", "rested", "resting", "restful", "restfully"]
+          },
+          {
+            "primary": "bed",
+            "secondary": ["beds"]
+          },
+          {
+            "primary": "bier",
+            "secondary": ["biers"]
+          },
+          {
+            "primary": "dead",
+            "secondary": []
+          },
+          {
+            "primary": "sleepily",
+            "secondary": ["sleep", "sleeps", "slept", "sleeping", "sleepy"]
+          },
+          {
+            "primary": "die",
+            "secondary": ["death", "dies", "died", "dying"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "awakening",
+            "secondary": ["awakenings", "awaken", "awakens", "awoke"]
+          },
+          {
+            "primary": "rousing",
+            "secondary": ["rouse", "rouses", "roused"]
+          },
+          {
+            "primary": "invigoratingly",
+            "secondary": [
+              "invigorate",
+              "invigorates",
+              "invigorated",
+              "invigorating"
+            ]
+          },
+          {
+            "primary": "wake",
+            "secondary": ["wakes", "woke", "waking"]
+          },
+          {
+            "primary": "revive",
+            "secondary": ["revives", "revived", "reviving", "revival"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "exhaustion",
+            "secondary": ["exhaust", "exhausts", "exhausted", "exhausting"]
+          },
+          {
+            "primary": "tired",
+            "secondary": ["tiredness", "tire", "tires", "tiring"]
+          },
+          {
+            "primary": "wearily",
+            "secondary": [
+              "weariness",
+              "weary",
+              "wearies",
+              "wearied",
+              "wearying"
+            ]
+          },
+          {
+            "primary": "deplete",
+            "secondary": ["depletion", "depletes", "depleted", "depleting"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "calm",
+            "secondary": ["calms", "calmed", "calming", "calmingly"]
+          },
+          {
+            "primary": "indolent",
+            "secondary": ["indolence", "indolently"]
+          },
+          {
+            "primary": "relaxed",
+            "secondary": ["relaxation", "relax", "relaxes", "relaxing"]
+          },
+          {
+            "primary": "lazily",
+            "secondary": ["lazy", "laze", "lazes", "lazed", "lazing"]
+          },
+          {
+            "primary": "loll",
+            "secondary": ["lolls", "lolled", "lolling"]
+          },
+          {
+            "primary": "becalm",
+            "secondary": ["becalms", "becalmed", "becalming"]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 28,
+    "name": "puddle",
+    "image": "/pictos/puddle.png",
+    "orientations": {
+      "up": {
+        "meanings": [
+          {
+            "primary": "puddles",
+            "secondary": ["puddle", "puddled", "puddling"]
+          },
+          {
+            "primary": "cumulative",
+            "secondary": ["cumulatively"]
+          },
+          {
+            "primary": "collectively",
+            "secondary": ["collective"]
+          },
+          {
+            "primary": "accumulate",
+            "secondary": [
+              "accumulation",
+              "accumulates",
+              "accumulated",
+              "accumulating"
+            ]
+          },
+          {
+            "primary": "pool",
+            "secondary": ["pools", "pooled", "pooling"]
+          }
+        ]
+      },
+      "down": {
+        "meanings": [
+          {
+            "primary": "drip",
+            "secondary": ["drips", "dripped", "dripping"]
+          },
+          {
+            "primary": "sapping",
+            "secondary": ["sap", "saps", "sapped"]
+          },
+          {
+            "primary": "vanishingly",
+            "secondary": ["vanish", "vanishes", "vanished", "vanishing"]
+          },
+          {
+            "primary": "bleed",
+            "secondary": ["bleeds", "bled", "bleeding"]
+          },
+          {
+            "primary": "drain",
+            "secondary": ["drains", "drained", "draining", "drainingly"]
+          }
+        ]
+      },
+      "left": {
+        "meanings": [
+          {
+            "primary": "ooze",
+            "secondary": ["oozes", "oozed", "oozing"]
+          },
+          {
+            "primary": "leaky",
+            "secondary": ["leak", "leaks", "leaked", "leaking"]
+          },
+          {
+            "primary": "slowly",
+            "secondary": ["slow", "slows", "slowed", "slowing"]
+          },
+          {
+            "primary": "trickle",
+            "secondary": ["trickles", "trickled", "trickling"]
+          },
+          {
+            "primary": "seep",
+            "secondary": ["seepage", "seepages", "seeps", "seeped", "seeping"]
+          }
+        ]
+      },
+      "right": {
+        "meanings": [
+          {
+            "primary": "overflow",
+            "secondary": [
+              "overflows",
+              "overflowed",
+              "overflowing",
+              "overflowingly"
+            ]
+          },
+          {
+            "primary": "spill",
+            "secondary": ["spills", "spilled", "spilling"]
+          },
+          {
+            "primary": "outpouring",
+            "secondary": []
+          },
+          {
+            "primary": "brimming",
+            "secondary": ["brim", "brims", "brimmed"]
+          },
+          {
+            "primary": "uncontainably",
+            "secondary": ["uncontainable"]
+          },
+          {
+            "primary": "pour",
+            "secondary": ["pours", "poured", "pouring"]
+          },
+          {
+            "primary": "splash",
+            "secondary": ["splashes", "splashed", "splashing"]
+          }
+        ]
+      }
+    }
+  }
+]

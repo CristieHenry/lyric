@@ -1,0 +1,104 @@
+[
+  {
+    "id": "public_poem_front",
+    "serialNumber": 1,
+    "face": "front",
+    "isPublic": true,
+    "pictograms": [
+      { "name": "nape", "orientation": "up" },
+      { "name": "walker", "orientation": "up" },
+      { "name": "wave", "orientation": "left" },
+      { "name": "stones", "orientation": "up" },
+      { "name": "sprout", "orientation": "up" },
+      { "name": "ring", "orientation": "down" },
+      { "name": "group", "orientation": "up" },
+      { "name": "group", "orientation": "down" }
+    ],
+    "displayedText": "who walks\nthe changing path of\nlife alone?\neveryone… no\u00A0one."
+  },
+  {
+    "id": "public_poem_back",
+    "serialNumber": 2,
+    "face": "back",
+    "isPublic": true,
+    "pictograms": [
+      { "name": "sun", "orientation": "right" },
+      { "name": "group", "orientation": "right" },
+      { "name": "eye", "orientation": "up" },
+      { "name": "faces", "orientation": "right" },
+      { "name": "sky", "orientation": "left" },
+      { "name": "group", "orientation": "right" },
+      { "name": "heart", "orientation": "up" },
+      { "name": "crack", "orientation": "up" }
+    ],
+    "displayedText": "when we see\neach\u00A0other clearly,\nour hearts break."
+  },
+  {
+    "id": "public_poem_left",
+    "serialNumber": 3,
+    "face": "left",
+    "isPublic": true,
+    "pictograms": [
+      { "name": "stones", "orientation": "up" },
+      { "name": "box", "orientation": "up" },
+      { "name": "book", "orientation": "down" },
+      { "name": "group", "orientation": "right" },
+      { "name": "magnifier", "orientation": "up" },
+      { "name": "sky", "orientation": "down" },
+      { "name": "group", "orientation": "right" },
+      { "name": "book", "orientation": "up" }
+    ],
+    "displayedText": "how everything ends\nwe know,\nstill we begin."
+  },
+  {
+    "id": "public_poem_right",
+    "serialNumber": 4,
+    "face": "right",
+    "isPublic": true,
+    "pictograms": [
+      { "name": "box", "orientation": "up" },
+      { "name": "thought", "orientation": "right" },
+      { "name": "hands", "orientation": "up" },
+      { "name": "pillow", "orientation": "up" },
+      { "name": "sun", "orientation": "up" },
+      { "name": "hand", "orientation": "down" },
+      { "name": "feather", "orientation": "down" },
+      { "name": "sky", "orientation": "up" }
+    ],
+    "displayedText": "what could\u00A0be better\nthan to sit in the sun\nand feel the soft wind?"
+  },
+  {
+    "id": "public_poem_top",
+    "serialNumber": 5,
+    "face": "top",
+    "isPublic": true,
+    "pictograms": [
+      { "name": "thought", "orientation": "up" },
+      { "name": "eye", "orientation": "up" },
+      { "name": "face", "orientation": "up" },
+      { "name": "sprout", "orientation": "up" },
+      { "name": "nut", "orientation": "up" },
+      { "name": "eye", "orientation": "up" },
+      { "name": "face", "orientation": "up" },
+      { "name": "rest", "orientation": "up" }
+    ],
+    "displayedText": "why am I afraid\nto live? because\nI am afraid to die."
+  },
+  {
+    "id": "public_poem_bottom",
+    "serialNumber": 6,
+    "face": "bottom",
+    "isPublic": true,
+    "pictograms": [
+      { "name": "globe", "orientation": "up" },
+      { "name": "group", "orientation": "left" },
+      { "name": "stand", "orientation": "up" },
+      { "name": "faces", "orientation": "up" },
+      { "name": "faces", "orientation": "down" },
+      { "name": "tree", "orientation": "up" },
+      { "name": "wave", "orientation": "up" },
+      { "name": "puddle", "orientation": "up" }
+    ],
+    "displayedText": "where they stood,\nkissing or arguing\non the shore,\nsea puddles."
+  }
+]

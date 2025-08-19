@@ -1,0 +1,152 @@
+[
+  {
+    "face": "front",
+    "readOrder": { "corner": "top-right", "direction": "clockwise" },
+    "sequence": [
+      { "name": "nape", "orientation": "up" },
+      { "name": "walker", "orientation": "up" },
+      { "name": "wave", "orientation": "left" },
+      { "name": "stones", "orientation": "up" },
+      { "name": "sprout", "orientation": "up" },
+      { "name": "ring", "orientation": "down" },
+      { "name": "group", "orientation": "up" },
+      { "name": "group", "orientation": "down" }
+    ],
+    "cellColors": [
+      { "fg": "#bf1e2e", "bg": "#f9bdbd" },
+      { "fg": "#bf1e2e", "bg": "#f8b9c6" },
+      { "fg": "#bf1e2e", "bg": "#f7acc9" },
+      { "fg": "#bf1e2e", "bg": "#f8ada3" },
+      { "fg": "#bf1e2e", "bg": "#f8b4be" },
+      { "fg": "#bf1e2e", "bg": "#f8b1c7" },
+      { "fg": "#bf1e2e", "bg": "#f7a7a5" },
+      { "fg": "#bf1e2e", "bg": "#f8b1b8" },
+      { "fg": "#bf1e2e", "bg": "#f8b8cb" }
+    ]
+  },
+  {
+    "face": "back",
+    "readOrder": { "corner": "top-left", "direction": "counterclockwise" },
+    "sequence": [
+      { "name": "sun", "orientation": "right" },
+      { "name": "group", "orientation": "right" },
+      { "name": "eye", "orientation": "up" },
+      { "name": "faces", "orientation": "right" },
+      { "name": "sky", "orientation": "left" },
+      { "name": "group", "orientation": "right" },
+      { "name": "heart", "orientation": "up" },
+      { "name": "crack", "orientation": "up" }
+    ],
+    "cellColors": [
+      { "fg": "#056839", "bg": "#aeda9e" },
+      { "fg": "#056839", "bg": "#9dd7a4" },
+      { "fg": "#056839", "bg": "#8bd5ab" },
+      { "fg": "#056839", "bg": "#a8d79f" },
+      { "fg": "#056839", "bg": "#9cd5a3" },
+      { "fg": "#056839", "bg": "#8dd4a9" },
+      { "fg": "#056839", "bg": "#a4d5a0" },
+      { "fg": "#056839", "bg": "#99d4a3" },
+      { "fg": "#056839", "bg": "#8bd1a8" }
+    ]
+  },
+  {
+    "face": "left",
+    "readOrder": { "corner": "bottom-right", "direction": "counterclockwise" },
+    "sequence": [
+      { "name": "stones", "orientation": "up" },
+      { "name": "box", "orientation": "up" },
+      { "name": "book", "orientation": "down" },
+      { "name": "group", "orientation": "right" },
+      { "name": "magnifier", "orientation": "up" },
+      { "name": "sky", "orientation": "down" },
+      { "name": "group", "orientation": "right" },
+      { "name": "book", "orientation": "up" }
+    ],
+    "cellColors": [
+      { "fg": "#0d70b8", "bg": "#96d1ee" },
+      { "fg": "#0d70b8", "bg": "#96d4ee" },
+      { "fg": "#0d70b8", "bg": "#96d7ec" },
+      { "fg": "#0d70b8", "bg": "#96d4ea" },
+      { "fg": "#0d70b8", "bg": "#96d3ea" },
+      { "fg": "#0d70b8", "bg": "#96d9e9" },
+      { "fg": "#0d70b8", "bg": "#96c7e4" },
+      { "fg": "#0d70b8", "bg": "#96d1e6" },
+      { "fg": "#0d70b8", "bg": "#96dbe7" }
+    ]
+  },
+  {
+    "face": "right",
+    "readOrder": { "corner": "top-right", "direction": "counterclockwise" },
+    "sequence": [
+      { "name": "box", "orientation": "up" },
+      { "name": "thought", "orientation": "right" },
+      { "name": "hands", "orientation": "up" },
+      { "name": "pillow", "orientation": "up" },
+      { "name": "sun", "orientation": "up" },
+      { "name": "hand", "orientation": "down" },
+      { "name": "feather", "orientation": "down" },
+      { "name": "sky", "orientation": "up" }
+    ],
+    "cellColors": [
+      { "fg": "#c96319", "bg": "#fac59e" },
+      { "fg": "#c96319", "bg": "#f9c29f" },
+      { "fg": "#c96319", "bg": "#f8be9f" },
+      { "fg": "#c96319", "bg": "#faca9e" },
+      { "fg": "#c96319", "bg": "#fac99f" },
+      { "fg": "#c96319", "bg": "#f9c99f" },
+      { "fg": "#c96319", "bg": "#fbcf9e" },
+      { "fg": "#c96319", "bg": "#face9e" },
+      { "fg": "#c96319", "bg": "#fad09f" }
+    ]
+  },
+  {
+    "face": "top",
+    "readOrder": { "corner": "top-left", "direction": "clockwise" },
+    "sequence": [
+      { "name": "thought", "orientation": "up" },
+      { "name": "eye", "orientation": "up" },
+      { "name": "face", "orientation": "up" },
+      { "name": "sprout", "orientation": "up" },
+      { "name": "nut", "orientation": "up" },
+      { "name": "eye", "orientation": "up" },
+      { "name": "face", "orientation": "up" },
+      { "name": "rest", "orientation": "up" }
+    ],
+    "cellColors": [
+      { "fg": "#7f3f98", "bg": "#c6b0d4" },
+      { "fg": "#7f3f98", "bg": "#cdadd2" },
+      { "fg": "#7f3f98", "bg": "#d0abd1" },
+      { "fg": "#7f3f98", "bg": "#d3aad0" },
+      { "fg": "#7f3f98", "bg": "#d8a7cf" },
+      { "fg": "#7f3f98", "bg": "#d9a6ce" },
+      { "fg": "#7f3f98", "bg": "#ee93ca" },
+      { "fg": "#7f3f98", "bg": "#e69ccb" },
+      { "fg": "#7f3f98", "bg": "#e49ecc" }
+    ]
+  },
+  {
+    "face": "bottom",
+    "readOrder": { "corner": "bottom-left", "direction": "clockwise" },
+    "sequence": [
+      { "name": "globe", "orientation": "up" },
+      { "name": "group", "orientation": "left" },
+      { "name": "stand", "orientation": "up" },
+      { "name": "faces", "orientation": "up" },
+      { "name": "faces", "orientation": "down" },
+      { "name": "tree", "orientation": "up" },
+      { "name": "wave", "orientation": "up" },
+      { "name": "puddle", "orientation": "up" }
+    ],
+    "cellColors": [
+      { "fg": "#ca9f0f", "bg": "#fdf092" },
+      { "fg": "#ca9f0f", "bg": "#fcf499" },
+      { "fg": "#ca9f0f", "bg": "#fbf6a0" },
+      { "fg": "#ca9f0f", "bg": "#fbe985" },
+      { "fg": "#ca9f0f", "bg": "#f9ee8d" },
+      { "fg": "#ca9f0f", "bg": "#f6f293" },
+      { "fg": "#ca9f0f", "bg": "#f9e079" },
+      { "fg": "#ca9f0f", "bg": "#f5ea85" },
+      { "fg": "#ca9f0f", "bg": "#f2ef89" }
+    ]
+  }
+]
